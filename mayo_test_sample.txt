@@ -1,0 +1,10 @@
+/mayo_data/slices/0681_02_LData.npy
+/mayo_data/slices/0690_02_LData.npy
+/mayo_data/slices/0707_02_LData.npy
+/mayo_data/slices/0716_02_LData.npy
+/mayo_data/slices/0719_02_LData.npy
+/mayo_data/slices/0721_02_LData.npy
+/mayo_data/slices/0722_02_LData.npy
+/mayo_data/slices/0733_02_LData.npy
+/mayo_data/slices/0758_02_LData.npy
+/mayo_data/slices/0765_02_LData.npy

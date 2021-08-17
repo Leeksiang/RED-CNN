@@ -1,0 +1,10 @@
+\DPC004869\lung\1mm\low\FMI000001.mat
+\DPC004869\lung\1mm\low\FMI000002.mat
+\DPC004869\lung\1mm\low\FMI000020.mat
+\DPC004869\lung\1mm\low\FMI000021.mat
+\DPC004869\lung\1mm\low\FMI000080.mat
+\DPC004869\lung\1mm\low\FMI000081.mat
+\DPC004869\lung\1mm\low\FMI000256.mat
+\DPC004869\lung\1mm\low\FMI000257.mat
+\DPC004869\lung\1mm\low\FMI000317.mat
+\DPC004869\lung\1mm\low\FMI000318.mat
